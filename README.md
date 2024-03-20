@@ -4,7 +4,7 @@
 
 This repository contains the link to the Raphael dataset, which consists of two sets of data (‘authentic’ and ‘not authentic’) used for the authentication analysis of artworks attributed to Raphael. Each dataset comprises the image folders, along with their corresponding documentation.
 The dataset can be downloaded by accessing the following link:
-[Raphael Dataset](https://drive.google.com/drive/folders/1uyQqBPAsY0jRj_rm0IH4c74taihR-Ywh?usp=share_link)
+[Raphael Dataset](https://forms.gle/2DpQFynkxQqjZcVG8)
 
 ## Contents
 
